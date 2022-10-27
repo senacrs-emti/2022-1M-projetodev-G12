@@ -38,7 +38,7 @@ const curiosidades  = [
 
 
 // Método 2 
-const curiosidade = [30];
+const curiosidade = [31];
 curiosidades[0]= "curiosidades1";
 curiosidades[1]= "curiosidades2";
 curiosidades[3]= "curiosidades3";
@@ -75,13 +75,12 @@ curiosidades[31]= "curiosidades30";
 
 
 document.getElementById("demo").innerHTML = curiosidades;
+
+
 Array.isArray(curiosidades);
 
 
 document.getElementById("demo").innerjs =
-Math.floor(Math.random() *30 ) + 1;
+Math.floor(Math.random() *31 ) + 1;
 Array.isArray(curiosidades);
 
-
-document.getElementById("demo").innerjs =
-Math.floor(Math.random() *30 ) + 1;
