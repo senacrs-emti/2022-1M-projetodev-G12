@@ -67,7 +67,7 @@ curiosidades[29]=
 "O jogo Ghost Recon de 2001 previu a invasão russa na Geórgia em 2008. ";
 
 //Gerador de numeros aleatórios//
-const aleatorio = Math.floor(Math.random() *31 ) + 1;
+const aleatorio = Math.floor(Math.random() *29 ) + 1;
 
 alert(aleatorio);
 
